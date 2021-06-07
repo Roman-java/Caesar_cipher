@@ -1,1 +1,1 @@
-# Caesar's code
+Caesar cipher implementation
